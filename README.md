@@ -1,5 +1,5 @@
 ### 9. Image넣기
-![PCWK CAFE](https://github.com/Dosn-code/MARKDOWN_EDU/blob/main/ocb.PNG)
+![PCWK CAFE](https://github.com/Dosn-code/MARKDOWN_EDU/blob/main/ocb.PNG "오컬파멸액트가이드")
 
 
 ### 8. 강조
@@ -7,7 +7,7 @@
 SPRING을 만끽하세요
 
 ### 7. 하이퍼링크
-[PCWK CAFE](https://www.youtube.com/watch?v=aHNrCV2hGIg/)
+[PCWK CAFE](https://www.youtube.com/watch?v=aHNrCV2hGIg/ "카페")
 
 
 ### 6. 가로선
