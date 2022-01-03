@@ -1,3 +1,11 @@
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|  
+|:-------:|-------:|-------|:-------|:-------|:-------|
+|1|james|이상무|1|phsicsklafj@agldfhjk|16:08|
+|2|**james**|이상무|1|phsicsklafj@agldfhjk|16:08|
+
+
+
 ### 9. Image넣기
 ![PCWK CAFE](https://github.com/Dosn-code/MARKDOWN_EDU/blob/main/ocb.PNG "오컬파멸액트가이드")
 
