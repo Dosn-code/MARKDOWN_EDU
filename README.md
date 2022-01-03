@@ -1,5 +1,5 @@
 ### 9. Image넣기
-![PCWK CAFE](https://github.com/Dosn-code/MARKDOWN_EDU/blob/main/ocb.PNG)
+![PCWK CAFE](https://github.com/Dosn-code/MARKDOWN_EDU/blob/main/ocb.PNG,"오컬티스트파멸 액트가이드")
 
 
 ### 8. 강조
