@@ -1,5 +1,5 @@
 ### 9. Image넣기
-![PCWK CAFE](https://github.com/unicorn.png , "15gg를 잘 이끌어내는챔피언")
+![PCWK CAFE](https://github.com/Dosn-code/MARKDOWN_EDU/blob/main/ocb.PNG)
 
 
 ### 8. 강조
